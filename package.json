@@ -1,0 +1,23 @@
+{
+  "name": "vesper-synth-user-lib",
+  "version": "2.0.0",
+  "description": "This library provides a powerful synthesizer for your music applications. It is designed to be flexible, customizable, and easy to integrate into your projects.",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "syt4sh1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/vesper-synth-user-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/vesper-synth-user-lib/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/vesper-synth-user-lib#readme"
+}
